@@ -1,4 +1,4 @@
 # regression-model-1
 This is my first Repository
 <br>
-Author - ROHIT VARMA 
+Author - ROHIT VARMA (Lnct collage)
